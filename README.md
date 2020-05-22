@@ -5,7 +5,7 @@ This course is offered at <a href="https://www.coursera.org">Coursera</a> and is
 
 This is the third course of the Specialization, <a href="https://www.coursera.org/learn/advanced-data-structures">Link to the course</a>.
 
-Here's my <a href = "https://www.coursera.org/account/accomplishments/records/9WBVA9AU6D8G">certificate</a> on completing the course.
+Here's my <a href = "https://www.coursera.org/account/accomplishments/records/HUGHV9486KDP">certificate</a> on completing the course.
 
 The program I build throughout this course allows its user to find the optimial path between two points in a map. The following algorithms are implemented:
 * BFS
