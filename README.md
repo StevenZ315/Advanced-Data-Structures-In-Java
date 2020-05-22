@@ -13,5 +13,5 @@ The program I build throughout this course allows its user to find the optimial 
 * Dijkstra
 * AStar
 
-![Result](https://github.com/StevenZ315/Text-Pro-App/blob/master/Sample.png)
-![Visualization](https://github.com/StevenZ315/Text-Pro-App/blob/master/Sample.png)
+![Result](https://github.com/StevenZ315/Advanced-Data-Structures-In-Java/blob/master/path.png)
+![Visualization](https://github.com/StevenZ315/Advanced-Data-Structures-In-Java/blob/master/Visualization.png)
